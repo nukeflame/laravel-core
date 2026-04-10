@@ -3,7 +3,7 @@
         'name' => 'nukeflame/laravel-core',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'eb0e25329c65712f9fa4988cf002d931472285fc',
+        'reference' => 'c32f2e62965d874bd23cf39c24fde685b4abb496',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -85,7 +85,7 @@
         'nukeflame/laravel-core' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'eb0e25329c65712f9fa4988cf002d931472285fc',
+            'reference' => 'c32f2e62965d874bd23cf39c24fde685b4abb496',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
