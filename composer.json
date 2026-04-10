@@ -1,0 +1,24 @@
+{
+  "name": "nukeflame/laravel-core",
+  "description": "Core utilities and shared services for Laravel applications",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Nukeflame\\LaravelCore\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Nukeflame\\LaravelCore\\CoreServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=8.2",
+    "illuminate/support": "^10.0|^11.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
