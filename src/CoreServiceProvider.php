@@ -2,9 +2,7 @@
 
 namespace Nukeflame\LaravelCore;
 
-use Illuminate\Support\ServiceProvider;
-
-class CoreServiceProvider extends ServiceProvider
+class CoreServiceProvider
 {
     public function register(): void
     {
